@@ -1,0 +1,4 @@
+scenario,ecart_vs_officiel_points,PIB_2027_MDH,recettes_2027_MDH,pression_fiscale_pct
+bas,-2.0,1874880,369915,19.73
+central,0.0,1947404,387659,19.91
+haut,2.0,2021304,405741,20.07
